@@ -1,3 +1,5 @@
+# Introduction: Business Problem
+
 In this project we will try to find the best location for a restaurant. This report will be targeted to people interested in opening a vegetarian restaurant in São Paulo's Capital, Brazil.
 
 In Brazil the vegetarian population has grown greatly. According to The IBOPE research, from April of 2018, about 14% of brazilians already declares vegetarian himselves.
