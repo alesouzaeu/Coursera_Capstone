@@ -10,7 +10,7 @@ And finally, help them to make better buying decisions.
 
 The Project Steps
 
- 1. Introduction -
+ 1. Introduction: Business problem -
  2. Web Scraping - 
  3. Importing Data - 
  4. Preparing Data - 
